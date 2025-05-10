@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Cours1/Cours1.iml" filepath="$PROJECT_DIR$/Cours1/Cours1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Course1/Cours1.iml" filepath="$PROJECT_DIR$/Course1/Cours1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SW_Pilot_JAVA.iml" filepath="$PROJECT_DIR$/.idea/SW_Pilot_JAVA.iml" />
     </modules>
   </component>
