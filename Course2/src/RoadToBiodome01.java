@@ -1,3 +1,4 @@
+// 반복되지 않는 파동수 찾기 (입력된 파동수 중 한번만 등장한 수 출력)
 public class RoadToBiodome01 {
     public static void main(String[] args) {
         if (args.length == 0) {
@@ -5,6 +6,7 @@ public class RoadToBiodome01 {
             return;
         }
 
+        // 입력값 정수 배열 저장
         int[] numbers = new int[args.length];
         for (int i = 0; i<args.length; i++) {
             try {
@@ -20,6 +22,7 @@ public class RoadToBiodome01 {
             }
         }
 
+        // 반복되지 않는 수 찾기
         int uniqueNumber = findUniqueNumber(numbers);
         if (uniqueNumber == -1) {
             System.out.println("반복되지 않는 숫자가 없습니다.");
@@ -30,6 +33,18 @@ public class RoadToBiodome01 {
 
     static int findUniqueNumber(int[] nums) {
         int unique = -1;
-        return 0;
+        // 모든 수 등장 횟수 검사
+        for (int i = 0; i<nums.length; i++) {
+            int count = 0;
+            for (int j = 0; j < nums.length; j++) {
+                if (nums[i] == nums[j]) count++;
+            }
+            // 등장 횟수 1인 경우
+            if (count == 1) {
+                unique = nums[i];
+                break;
+            }
+        }
+        return unique;
     }
 }
