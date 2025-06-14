@@ -4,9 +4,17 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Course3/BiodomeFamily01/BiodomeFamily01.iml" filepath="$PROJECT_DIR$/Course3/BiodomeFamily01/BiodomeFamily01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Course3/BiodomeFamily02/BiodomeFamily02.iml" filepath="$PROJECT_DIR$/Course3/BiodomeFamily02/BiodomeFamily02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Course3/BiodomeFamily03/BiodomeFamily03.iml" filepath="$PROJECT_DIR$/Course3/BiodomeFamily03/BiodomeFamily03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Course3/BiodomeFamily04/BiodomeFamily04.iml" filepath="$PROJECT_DIR$/Course3/BiodomeFamily04/BiodomeFamily04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Course3/BiodomeFamily05/BiodomeFamily05.iml" filepath="$PROJECT_DIR$/Course3/BiodomeFamily05/BiodomeFamily05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Course3/BiodomeFamily06/BiodomeFamily06.iml" filepath="$PROJECT_DIR$/Course3/BiodomeFamily06/BiodomeFamily06.iml" />
       <module fileurl="file://$PROJECT_DIR$/Course1/Course1.iml" filepath="$PROJECT_DIR$/Course1/Course1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Course2/Course2.iml" filepath="$PROJECT_DIR$/Course2/Course2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Course3/Course3.iml" filepath="$PROJECT_DIR$/Course3/Course3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Course4/Course4.iml" filepath="$PROJECT_DIR$/Course4/Course4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Course4/RuleOfBiodome02/RuleOfBiodome02.iml" filepath="$PROJECT_DIR$/Course4/RuleOfBiodome02/RuleOfBiodome02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Course4/RuleOfBiodome04/RuleOfBiodome04.iml" filepath="$PROJECT_DIR$/Course4/RuleOfBiodome04/RuleOfBiodome04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Course4/RuleOfBiodome05/RuleOfBiodome05.iml" filepath="$PROJECT_DIR$/Course4/RuleOfBiodome05/RuleOfBiodome05.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SW_Pilot_JAVA.iml" filepath="$PROJECT_DIR$/.idea/SW_Pilot_JAVA.iml" />
     </modules>
   </component>
